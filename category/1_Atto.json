@@ -1,0 +1,82 @@
+{
+    "Category": "Atto_あっと",
+    "Worlds": [
+        {
+            "ID": "wrld_b44964d5-9f41-4719-bb0d-685f438d9d99",
+            "Name": "オモイデに沈む前に -Before It Sinks in Memories-",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "「守るべき明日は笑顔と共にある」"
+        },
+        {
+            "ID": "wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d",
+            "Name": "独夜ノクターン -Nocturne in Lonely Night-",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "導こう、オモイデの夜想曲で。 クレジット：指揮棒「Nirv Market」様"
+        },
+        {
+            "ID": "wrld_dbd387c8-e318-47f6-8a51-56b0b419ce93",
+            "Name": "望郷の春咲く処 -Nostalgic Spring Riverside-",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "春の温泉！！茶屋や個室風呂もあるぞ！！遊べる卓球も！"
+        },
+        {
+            "ID": "wrld_b5223b14-fcd9-45c5-a373-9b4d628e9bc3",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Name": "望郷の春咲く夜 -Nostalgic Spring night-",
+            "Description": "春の温泉！！茶屋や個室風呂もあるぞ！！遊べる卓球も！Pebble Feel対応！！"
+        },
+        {
+            "ID": "wrld_5ee38798-2943-491a-aa30-a145bbe44b42",
+            "RecommendedCapacity": 80,
+            "Capacity": 80,
+            "Name": "ハジマリと福音の先へ -After the Origins and the Bell-",
+            "Description": "「未来［あした］の僕らに残せる物は何？」 Flying System ＝≻・Desktop˸［Tab］・VR˸Grab object near the neck and use"
+        },
+        {
+            "ID": "wrld_d39c32b6-f7fb-4bb1-978b-0b1660193160",
+            "Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-",
+            "RecommendedCapacity": 80,
+            "Capacity": 80,
+            "Description": "川の音や温泉が楽しめるワールドでよ！バーベキューもできちゃう！！！"
+        },
+        {
+            "ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
+            "Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-",
+            "RecommendedCapacity": 80,
+            "Capacity": 80,
+            "Description": "温泉と川とBBQが楽しめる！！環境音も！！！BGM˸秋風吹く庭で https˸pocket-se․infoarchives1840"
+        },
+        {
+            "ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+            "Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "夕焼けとトラス橋とモダンな温泉！実際に焼けるBBQも！ ［HandMenu］VR˸2Click LeftTrigger Desktop˸Tab"
+        },
+        {
+            "ID": "wrld_2694a3d2-4656-4f15-8cf3-275dbff6981d",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Name": "遠郷の冬めく処 -Nostalgic Winter Riverside-",
+            "Description": "川沿いの冬の温泉！！足湯や樽風呂もあるぞ！！！みんな大好き旅館のあの空間も！！"
+        },
+        {
+            "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+            "Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄"
+        },
+        {
+            "ID": "wrld_93863398-71e0-4fab-97e9-608156084f4a",
+            "Name": "聖雪オラトリウム -Oratorium in Holy Snow-",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "照らそう、聖なる光とともに！"
+        }
+    ]
+}
