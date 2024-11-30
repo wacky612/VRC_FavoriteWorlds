@@ -1,0 +1,117 @@
+{
+    "Category": "博物館",
+    "Worlds": [
+        {
+            "ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf",
+            "Name": "Eccentric Objects",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": ""
+        },
+        {
+            "ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
+            "Name": "Eccentric Rooms",
+            "RecommendedCapacity": 15,
+            "Capacity": 30,
+            "Description": "Eccentric Rooms"
+        },
+        {
+            "ID": "wrld_458eb373-50e5-4f79-a08a-a7af67e93c6f",
+            "Name": "Magic AI-Art˸ Dimensions",
+            "RecommendedCapacity": 20,
+            "Capacity": 80,
+            "Description": "Immerse yourself in a captivating blend of art and technology․ Experience a psychedelic journey through special shaders‚ showcasing mesmerizing images crafted with the aid of artificial intelligence․ Welcome to a world that transcends the limits of traditional galleries․ Here‚ AI is not the artist but a powerful tool that enhances human creativity․ The fusion of human intuition and machine precision forms a unique symbiosis‚ amplifying the artist's vision and unlocking new dimensions of expression․"
+        },
+        {
+            "ID": "wrld_20a3beaf-0bfb-4ead-93df-6b150296439c",
+            "Name": "Museum-of-Vrpainting",
+            "RecommendedCapacity": 16,
+            "Capacity": 80,
+            "Description": "vr-painting"
+        },
+        {
+            "ID": "wrld_ba30d3f3-cc4f-48ad-b9e4-fed127d41141",
+            "Name": "Near or far",
+            "RecommendedCapacity": 30,
+            "Capacity": 60,
+            "Description": "それは本当にそこにある？⁄扉の挙動修正（23⁄08⁄24）"
+        },
+        {
+            "ID": "wrld_3987e705-2587-406c-9703-4602dc400035",
+            "Name": "NISSAN Heritage Cars ＆ Safe Driving Studio",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "NISSAN Heritage Cars ＆ Safe Driving Studio"
+        },
+        {
+            "ID": "wrld_aa3990ff-7cd7-4ab0-be12-f91e735d7023",
+            "Name": "omochi museum",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "omochi museum˸ An exhibition of interactive user interface design experiments"
+        },
+        {
+            "ID": "wrld_29daf324-96f9-4ba3-a9ad-2a4012effeef",
+            "Name": "Solar System",
+            "RecommendedCapacity": 30,
+            "Capacity": 60,
+            "Description": "Constantly updated Solar System with accurate size ratios of planets and moons and spectacular animations․ Converted from AltspaceVR （RIP）․"
+        },
+        {
+            "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+            "Name": "Sushi Aquarium 海洋棟",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数39種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。"
+        },
+        {
+            "ID": "wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22",
+            "Name": "Sushi Aquarium 淡水棟",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "世界の淡水魚などを展示している水族館ワールドです（展示数39種類）。kaiiiiiiiiiさんから公開されている続編ワールド「Sushi Aquarium 海洋棟」では海の生き物たちを展示しています。当ワールド内最奥にあるポータルより続けてご覧いただくことも可能です。 このワールドの建築物および魚類のモデルはkaiiiiiiiiiさんと共同で制作されました。"
+        },
+        {
+            "ID": "wrld_a26efb21-45fb-4f63-8cf6-68a3ed68f5a4",
+            "Name": "VMoVA",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "Welcome to our Exhibition【Thickness of Calligraphy】‚ available in English‚ Chinese and Japanese․ 丨 A statue for the festival has been added in the atrium․ Please have lots of creative photos hereǃ 丨 In addition‚ we also added short English translations to Chinese characters in these calligraphy works․ 丨 230913"
+        },
+        {
+            "ID": "wrld_ecc29d21-e4c1-4a4a-ae48-46de7b7bc6b1",
+            "Name": "VR art 'New place'",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "This is gallery of tilt brush's art by artist 'Jaehyuk Lee'‚ and directing by VRC streamer GreatMoonAroma․ if you like 3d art․ enjoyǃ"
+        },
+        {
+            "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+            "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+            "RecommendedCapacity": 25,
+            "Capacity": 50,
+            "Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ"
+        },
+        {
+            "ID": "wrld_834d75a7-f7e2-44a7-8014-a10336112115",
+            "Name": "お米がオギャるまで。",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "お米がオギャるまで長い月日がかかります！ そのオギャるまでの工程を説明させていただきます！ このワールドに来れば貴方も農家になれる！？"
+        },
+        {
+            "ID": "wrld_9db596b7-fa52-4f05-9a79-9c7236b713a0",
+            "Name": "現代仮想美術館",
+            "RecommendedCapacity": 4,
+            "Capacity": 4,
+            "Description": "2－4人で一度に入館お願いします。 入館前に以下の動画を御覧ください【https˸⁄⁄youtu․be⁄zbLgIYzJLM4】 無料の当美術館ポスターは【https˸⁄⁄mera-aoki․booth․pm⁄items⁄5062190】です。自作ワールドに貼っていただけると大変うれしいです。"
+        },
+        {
+            "ID": "wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
+            "Name": "触れる仮想現実展˸リアセンス",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "沢山のご来場ありがとうございます。 これからも展示物の追加やギミックの追加・調整を行う予定です。 何か不具合や疑問点を見つけた際はなんなりとお教えください。"
+        }
+    ]
+}
