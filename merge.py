@@ -6,7 +6,7 @@ from pathlib import Path
 
 data = []
 
-for filename in os.listdir('category'):
+for filename in sorted(os.listdir('category')):
     path     = Path('category') / filename
     category = json.loads(path.read_text())
     data.append(category)
