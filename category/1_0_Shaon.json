@@ -1,0 +1,26 @@
+{
+    "Category": "シャオンちゃん",
+    "Worlds": [
+        {
+            "ID": "wrld_fb8d2807-1174-4894-8873-785b4daa1908",
+            "Name": "シャオンちゃん交流会会場",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "シャオンちゃん試着会兼交流会場・歴代のシャオンちゃんモデルとか三面図とかキャラデザのギャラリーつき 2021⁄08⁄06 Unity2019対応"
+        },
+        {
+            "ID": "wrld_466b6925-5e0c-4e7d-9e71-2a0c0057ff55",
+            "Name": "BIG Shaon Avatar",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "大きいシャオンちゃんのワールド！"
+        },
+        {
+            "ID": "wrld_9c479c9b-222c-4691-bbca-f13e46e1c88a",
+            "Name": "Japan Questa Avatar World -秘境 山-",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "クロスプラットフォーム対応 イベント・アバターの展示会「じゃぱんくえすた」のアーカイブワールドです。開催期間： 2022年11月20日（日）～ 11月27日（日）"
+        }
+    ]
+}
