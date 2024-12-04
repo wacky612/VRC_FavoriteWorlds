@@ -6,49 +6,77 @@
             "Name": "夏夢島 -Summer Dream Island-",
             "RecommendedCapacity": 20,
             "Capacity": 40,
-            "Description": "Summer Dream Island․ BGM ˸ 甘茶の音楽工房「夏の終わり」"
+            "Description": "Summer Dream Island․ BGM ˸ 甘茶の音楽工房「夏の終わり」",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_82861a2b-5b04-42eb-899d-3db734f966e2",
             "Name": "宙夢島 -Stratoreverie Island-",
             "RecommendedCapacity": 20,
             "Capacity": 40,
-            "Description": "そらのゆめ。"
+            "Description": "そらのゆめ。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
             "Name": "雪夢島 -Snow Reverie Island-",
             "RecommendedCapacity": 40,
             "Capacity": 80,
-            "Description": "ゆきやこんこ"
+            "Description": "ゆきやこんこ",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_9fb46a43-22d8-4b7f-b7d1-334158f144d8",
             "Name": "星蒼の安息地 -StarReverie Rest-",
             "RecommendedCapacity": 20,
             "Capacity": 40,
-            "Description": "ほしぼしのはねやすめ"
+            "Description": "ほしぼしのはねやすめ",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_45d80265-bdf4-402b-bea2-59b848df6873",
             "Name": "星夢島 -Star Reverie Island-",
             "RecommendedCapacity": 40,
             "Capacity": 80,
-            "Description": "Wish upon a star to recollection your reverie․․․"
+            "Description": "Wish upon a star to recollection your reverie․․․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_ec744f53-96c2-4aef-a5b6-391d8c9d5cf3",
             "Name": "夏空の休息地 -Summer Bluesky Rest-",
             "RecommendedCapacity": 40,
             "Capacity": 80,
-            "Description": "なつだーǃうみだーǃねこだーǃ"
+            "Description": "なつだーǃうみだーǃねこだーǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
             "Name": "夏宙の休息地 -Summer Starrysky Rest-",
             "RecommendedCapacity": 30,
             "Capacity": 60,
-            "Description": "たまやーǃ かぎやーǃ ねこやーǃ"
+            "Description": "たまやーǃ かぎやーǃ ねこやーǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         }
     ]
 }

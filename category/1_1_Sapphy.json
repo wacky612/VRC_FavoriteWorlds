@@ -6,42 +6,66 @@
             "Name": "Sapphy 1st Anniversary 会場",
             "RecommendedCapacity": 30,
             "Capacity": 60,
-            "Description": "サフィーちゃん誕生日会、兼、フォトコンテスト掲載Worldです。まだテスト中。"
+            "Description": "サフィーちゃん誕生日会、兼、フォトコンテスト掲載Worldです。まだテスト中。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_66ddd041-3411-4497-95f7-d0fa8dab9a1b",
             "Name": "【第二回】サフィーちゃんフォトコンテスト掲載World",
             "RecommendedCapacity": 80,
             "Capacity": 80,
-            "Description": "第二回サフィーちゃんフォトコンテストの掲載会場となります。 現在改修中ですので、完成までもうしばらくお待ちくださいませ。 設置機体 AH-64D BFS003 B型（架空機）"
+            "Description": "第二回サフィーちゃんフォトコンテストの掲載会場となります。 現在改修中ですので、完成までもうしばらくお待ちくださいませ。 設置機体 AH-64D BFS003 B型（架空機）",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_3d83d004-a63f-4414-96b6-f1a139ebd952",
             "Name": "shimaP's room",
             "RecommendedCapacity": 35,
             "Capacity": 40,
-            "Description": "金髪メイド・サフィーちゃんは最高だぜ！この部屋は日本の深夜アニメ・ゲーム好きのための睡眠や作業用のワールドです。動画のプレイリストには私好みの日本のアニソン・ゲーソンが入っています。⁄Blonde maid Sapphy-chan is the bestǃ This room is a sleeping and working world for Japanese late-night anime and game lovers․ The video playlist contains my favorite Japanese anime song game song․"
+            "Description": "金髪メイド・サフィーちゃんは最高だぜ！この部屋は日本の深夜アニメ・ゲーム好きのための睡眠や作業用のワールドです。動画のプレイリストには私好みの日本のアニソン・ゲーソンが入っています。⁄Blonde maid Sapphy-chan is the bestǃ This room is a sleeping and working world for Japanese late-night anime and game lovers․ The video playlist contains my favorite Japanese anime song game song․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_3e651007-2faf-44bf-a81b-e8d76d6c0de7",
             "Name": "miro's room",
             "RecommendedCapacity": 16,
             "Capacity": 32,
-            "Description": "私が普段使用している仮想VoidCat様のサフィー-Sapphy-、ルフィナ-Rufina-をメインにした自己満足ワールドです。"
+            "Description": "私が普段使用している仮想VoidCat様のサフィー-Sapphy-、ルフィナ-Rufina-をメインにした自己満足ワールドです。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_b4c07475-eacc-45bd-a264-744701eeb717",
             "Name": "Situation Voice ＂唐揚げレシピ＂",
             "RecommendedCapacity": 6,
             "Capacity": 12,
-            "Description": "サフィーちゃんがバイノーラルボイス風に唐揚げのレシピを教えてくれる。NPC model ＂Sapphy＂ ⁄ VOICEVOX ＂ナースロボ_Type-T＂"
+            "Description": "サフィーちゃんがバイノーラルボイス風に唐揚げのレシピを教えてくれる。NPC model ＂Sapphy＂ ⁄ VOICEVOX ＂ナースロボ_Type-T＂",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_b1d86c2c-8c62-4aea-b1e8-40ff4e2b601f",
             "Name": "とても大きいサフィーちゃんとお風呂に入るワールド",
             "RecommendedCapacity": 16,
             "Capacity": 32,
-            "Description": "名前の通りです"
+            "Description": "名前の通りです",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         }
     ]
 }

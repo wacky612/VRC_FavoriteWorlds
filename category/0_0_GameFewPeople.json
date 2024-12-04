@@ -6,77 +6,121 @@
             "Name": "［Game］ Join Wars ［JP․EN］",
             "RecommendedCapacity": 12,
             "Capacity": 24,
-            "Description": "［JP․EN］ 1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。 1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․"
+            "Description": "［JP․EN］ 1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。 1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_54ade570-dc66-4727-a168-08cfa4227d2e",
             "Name": "PolygonDungeon",
             "RecommendedCapacity": 8,
             "Capacity": 16,
-            "Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！"
+            "Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7",
             "Name": "Smash Contest スマッシュコンテスト",
             "RecommendedCapacity": 16,
             "Capacity": 32,
-            "Description": "サンドバッグを殴って蹴ってHome Run！かっこよく飛ばせたら＃SMACONでシェア！Made with Udon"
+            "Description": "サンドバッグを殴って蹴ってHome Run！かっこよく飛ばせたら＃SMACONでシェア！Made with Udon",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
             "Name": "Spirit Speak Game",
             "RecommendedCapacity": 8,
             "Capacity": 16,
-            "Description": "Communicate across dimensions in this 3-8 player party game․ By jar"
+            "Description": "Communicate across dimensions in this 3-8 player party game․ By jar",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_9a51b365-d6cc-42e6-901a-54ceb46b94ef",
             "Name": "Super Tower Defense",
             "RecommendedCapacity": 15,
             "Capacity": 30,
-            "Description": "A juicy Tower Defense game made for VRChat․ Stop the Cars from reaching your heart ≺3․ Desktop and VR compatible․"
+            "Description": "A juicy Tower Defense game made for VRChat․ Stop the Cars from reaching your heart ≺3․ Desktop and VR compatible․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
             "Name": "Tanksǃ",
             "RecommendedCapacity": 10,
             "Capacity": 20,
-            "Description": "Time for battleǃ （2-10 players）"
+            "Description": "Time for battleǃ （2-10 players）",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_c8401de9-ab65-41f8-9a1d-bb34cb9a9e8b",
             "Name": "Udon Chicken Horse",
             "RecommendedCapacity": 8,
             "Capacity": 16,
-            "Description": "Multiplayer PvP game （2~4） - Create a path that gives you an advantage and reach the goal faster than anyone elseǃ"
+            "Description": "Multiplayer PvP game （2~4） - Create a path that gives you an advantage and reach the goal faster than anyone elseǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_1e1ebcf5-e7ff-4b08-a1f9-b6e1c7c77054",
             "Name": "コモンセンス！ ⁄ Common Sense",
             "RecommendedCapacity": 8,
             "Capacity": 12,
-            "Description": "お題をもとに、参加者の回答の中央値を目指すゲームです。アイスブレイクなどにお使いください。（必要人数˸ 3人‚ 推奨人数˸ 5人〜‚ 現在の問題数計240問）"
+            "Description": "お題をもとに、参加者の回答の中央値を目指すゲームです。アイスブレイクなどにお使いください。（必要人数˸ 3人‚ 推奨人数˸ 5人〜‚ 現在の問題数計240問）",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e",
             "Name": "こんちゃんコヨーテ！~Kon-chan Coyoteǃ~",
             "RecommendedCapacity": 64,
             "Capacity": 64,
-            "Description": "プレイ人数：2人～。 プレイ時間：２０分くらい。 ボードゲーム「コヨーテ」が遊べるワールドです！山札をカスタマイズできるコアなファン向けのモードもあります！ みどりの森°アバター「ロポリこん」の非公式ファンワールドです。"
+            "Description": "プレイ人数：2人～。 プレイ時間：２０分くらい。 ボードゲーム「コヨーテ」が遊べるワールドです！山札をカスタマイズできるコアなファン向けのモードもあります！ みどりの森°アバター「ロポリこん」の非公式ファンワールドです。",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
         },
         {
             "ID": "wrld_223a361a-c16a-47ce-8183-f3e223fcd6e3",
             "Name": "天下鳴動 ~Tenka Meidou~",
             "RecommendedCapacity": 16,
             "Capacity": 32,
-            "Description": "2～4人用ボードゲーム「天下鳴動」 プレイ時間：30分～1時間程 ルール説明あります"
+            "Description": "2～4人用ボードゲーム「天下鳴動」 プレイ時間：30分～1時間程 ルール説明あります",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         },
         {
             "ID": "wrld_d6e3962a-73d6-47c2-b97f-36ca5a99252d",
             "Name": "詠み人知らず Yomibitoshirazu",
             "RecommendedCapacity": 16,
             "Capacity": 32,
-            "Description": "1文字書くごとにシャッフルしてカオスな俳句を作ろう！プレイ人数4人～8人、簡単、短時間で遊べます！Made with Udon"
+            "Description": "1文字書くごとにシャッフルしてカオスな俳句を作ろう！プレイ人数4人～8人、簡単、短時間で遊べます！Made with Udon",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
         }
     ]
 }
