@@ -1,0 +1,148 @@
+{
+    "Category": "アトラクション",
+    "Worlds": [
+        {
+            "ID": "wrld_06ad9725-4188-42e1-bcf4-06e8ca3fd45a",
+            "Name": "【パルクール】 MoonTraveler - Gravity Parkour -",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "変化する重力を駆使してゴールを目指そう！ Aim for the goal using planet movementǃ ∗∗警告 ⁄ WORNING∗∗ 激しく視点が動きます。強いVR酔いにご注意ください。 Please be attention that it can be QUITE disorienting․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_1da7dd95-0580-427e-80c2-686971e316ab",
+            "Name": "SPACE ELEVATOR",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "［2020-03-24 v2․6］BugFix",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_2fa99a4a-37f8-4c2c-a882-86d80efb3017",
+            "Name": "UNDERGROUND CITY",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "［2020-03-24 v2․2］BugFix",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_37151b4b-fa77-4542-9951-b91e548d7a71",
+            "Name": "ARTIFICIAL TYPHOON",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "2020-07-04 v2․02 BugFix",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_4045ad56-51d7-4e45-9a34-aeeefa5a1bba",
+            "Name": "FULLMETAL NOAH'S ARK",
+            "RecommendedCapacity": 10,
+            "Capacity": 20,
+            "Description": "2023-05-22 v1․00 Release․,",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_2b0beb43-679e-4997-8198-b051f9926744",
+            "Name": "E-mo",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "「私の感情、全部が私」 （clusterにて制作したワールド「E-mo」のリメイクです）",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_3d3d87b3-3e78-4a7e-858d-e3a8a50d58ce",
+            "Name": "Frame of Reference",
+            "RecommendedCapacity": 2,
+            "Capacity": 4,
+            "Description": "A Ruuubick ＆ Fionna collaboration - All Original Models‚ Animation ＆ VFX․ You've won tickets to the Haunted Kingdom theme park ǃ Have a great time ǃǃ",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_51105110-5110-5110-5110-511051105110",
+            "Name": "Monsoon",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "A peaceful and serene sanctuary to chill inside ofǃ You are advised not to go outside․ My submission to Spookality 2023‚ made over the course of about a week and a half․ -- Will be updated with more visual details and minor bug fixesǃ --",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_de53549a-20cf-4c6f-abea-dcda197e1e16",
+            "Name": "ORGANISM （v1․5）",
+            "RecommendedCapacity": 30,
+            "Capacity": 60,
+            "Description": "Attention visitorsǃ there is no puzzles‚ and no definitive answer․ You decide what an ＂Organism＂ is․ 1․5- Boosty link added （check for some bonuses ）‚ Raindance Immersive Trophy added",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_6f55a286-b851-4d3e-8933-e7a31138edd7",
+            "Name": "PokoPeaLand",
+            "RecommendedCapacity": 40,
+            "Capacity": 40,
+            "Description": "ぽこピーランドへようこそ！ 『甲賀流忍者ぽんぽこ』と『オシャレになりたい！ピーナッツくん』の２匹組『ぽこピー』による夢のテーマパークです！！POKOPEA's Dream Theme Park offers an unforgettable mix of horror and fun with roller coasters and attractions by popular Japanese Vtuber POKOPEAǃ",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_da97f2e5-28bc-4859-9280-16eeee907c69",
+            "Name": "Treasure Heist",
+            "RecommendedCapacity": 4,
+            "Capacity": 8,
+            "Description": "Join Henry Ark on a Short adventure through the ancient Egyptian tombs of Anubis and uncover the secret that lies in the domain of the gods․ 8 player maximum ｜ 11-06-2022 PATCH NOTE˸ Fixed Constellation tablet sync bug‚ improved overall networking stability‚ and sync‚ fixed teleport error that causes the player to load into an empty room‚ added timer and death count․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_5058861c-e532-4ca5-a41f-415fadf66a55",
+            "Name": "いつもの遊び場 ーThe Play Roomー",
+            "RecommendedCapacity": 4,
+            "Capacity": 8,
+            "Description": "SDK3に慣れるためのちょっとしたアスレチックワールドです。It is a little athletic world to get used to SDK3․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_f97a1f4c-daf1-4b12-88d4-25c14516b7a7",
+            "Name": "ヴァリアライド-Varea'Ride-",
+            "RecommendedCapacity": 8,
+            "Capacity": 16,
+            "Description": "悪のVR怪人組織『悪役結社ヴァリアール』。その世界に全身で没入できる珠玉の大迫力ライドアトラクションワールド。 ヴァリアールに関する事前知識不要。 装甲ビークルに搭乗し、いざ万魔殿の奥底へ！ 《乗員》1～6名（最大8名） Twitter ＠VRHeel",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        }
+    ]
+}
