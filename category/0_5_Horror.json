@@ -1,0 +1,159 @@
+{
+    "Category": "ホラー",
+    "Worlds": [
+        {
+            "ID": "wrld_c9e2eee0-e9a5-43a8-ae2e-9cbc4b9038e4",
+            "Name": "Acheron Apartment",
+            "RecommendedCapacity": 6,
+            "Capacity": 12,
+            "Description": "A journey into a cursed apartment building․ V1․2․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_599a02f0-9357-437c-8872-9ede78238f41",
+            "Name": "Adi Mente",
+            "RecommendedCapacity": 5,
+            "Capacity": 10,
+            "Description": "The glory of old age and recollection․ The last of the great days․ Short map by Zippin and Lamb_",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_5ff8498c-85d6-4607-9bd1-10eff88bcdd5",
+            "Name": "Cu",
+            "RecommendedCapacity": 4,
+            "Capacity": 8,
+            "Description": "available until 27",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_df809d4f-cd7a-4044-90aa-8d4af8c7813b",
+            "Name": "Horror Darkness Escape 2019",
+            "RecommendedCapacity": 4,
+            "Capacity": 8,
+            "Description": "Created May-03-2019 ~ Update Oct-16-2020",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_869a5530-c825-4236-a749-7f7c45cb2d01",
+            "Name": "Keys",
+            "RecommendedCapacity": 8,
+            "Capacity": 16,
+            "Description": "謎解きゲーム鍵を集めてゴールを目指そう！UDON",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_6f55a286-b851-4d3e-8933-e7a31138edd7",
+            "Name": "PokoPeaLand",
+            "RecommendedCapacity": 40,
+            "Capacity": 40,
+            "Description": "ぽこピーランドへようこそ！ 『甲賀流忍者ぽんぽこ』と『オシャレになりたい！ピーナッツくん』の２匹組『ぽこピー』による夢のテーマパークです！！POKOPEA's Dream Theme Park offers an unforgettable mix of horror and fun with roller coasters and attractions by popular Japanese Vtuber POKOPEAǃ",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_5a2bf507-10f9-48f7-ac4a-41e86f247d16",
+            "Name": "Q_room",
+            "RecommendedCapacity": 6,
+            "Capacity": 12,
+            "Description": "大人の癒し空間ROOM系ワールドです",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_b66c109c-a19f-4218-a7b6-305acc59cd84",
+            "Name": "Q․T",
+            "RecommendedCapacity": 15,
+            "Capacity": 30,
+            "Description": "KAWAII IS JUSTICE",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_bb8f58f5-f201-4d4d-a013-882944bcc4c6",
+            "Name": "The Hotel․",
+            "RecommendedCapacity": 2,
+            "Capacity": 4,
+            "Description": "1․ Go together with other players․ 2․ Set all volumes to 100․ 3․Do not break through walls․ 4․Playtime about 20 minutes․ 5․ LastRoomNumber is 3101․ （Bug Report https˸⁄⁄discord․gg⁄GsMGASuP3Y）",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_8364cbd6-819b-4737-acc3-6279e07cf0f6",
+            "Name": "The Tenth Floor",
+            "RecommendedCapacity": 6,
+            "Capacity": 12,
+            "Description": "1-12 players - Length˸ 20-30 minutes․ This is a halloween⁄spookality map based around moving up an elevator where various spooky things will happen along the way․ Use a humanoid avatar with no emissions‚ turn off name plates‚ and try to make it a normalish size․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_3c45e3fb-a855-4a16-90e6-fec8452f9606",
+            "Name": "お化け屋敷 地獄館",
+            "RecommendedCapacity": 8,
+            "Capacity": 16,
+            "Description": "声が聞こえる。ずっとおれを呼ぶ声が。おいで、おいでと呼ぶ声が。",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_c972d81f-92d8-4222-bd8e-9587cac4c496",
+            "Name": "夏のトンネル That's the entrance to hell Ex․Ver",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "前作「夏のトンネル That's the entrance to hell」へ追加要素を加えたアップデートバージョンです。前作をプレイしていなくても楽しむことが出来ます！注意․トンネルの入り口前でイベントを発生させるまでスマホを持つことはできません。credit［製作者˸異世界犬子＠Isekaiinuko 監修˸アイリス＠AirisVR Special SE˸咲真あきら＠akirach_sakuma SE˸びたちー素材館、魔王魂］",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_0548e80a-e7b7-48f0-aa6f-de4358f59fb6",
+            "Name": "帰路異譚 -ある入居者の怪-",
+            "RecommendedCapacity": 1,
+            "Capacity": 6,
+            "Description": "ホラーワールド プレイ時間：約10分ほど 推奨人数：1～2人 おかえりなさい",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_f7f16edf-64ea-4aca-b196-94bae78e7884",
+            "Name": "石打ダム駅 （Ishiuchi Dam Station）",
+            "RecommendedCapacity": 12,
+            "Capacity": 12,
+            "Description": "［Ishiuchi Dam Station Locate］˸ Nakamura ≻ Misimachi ≻ Uki city ≻ Kumamoto Prefecture ≻ Japan․ Open ˸ 11th ⁄ March ⁄ 1989․［Re created by foreigner］",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        }
+    ]
+}
