@@ -1,0 +1,192 @@
+{
+    "Category": "VRMV",
+    "Worlds": [
+        {
+            "ID": "wrld_a160ce14-ef91-451b-9255-c908cdd1dad2",
+            "Name": "［ParticleLive］TEMPLATE",
+            "RecommendedCapacity": 8,
+            "Capacity": 16,
+            "Description": "本ワールドは星街すいせいの楽曲「TEMPLATE」の ファンメイドパーティクルライブワールドです。 負荷の重い演出が多い為必要に応じてグラフィック設定などを見直した上でお楽しみください。 また、酔いやてんかんなどもご注意ください。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_6909d0e8-cf53-4f0d-8dea-fd50b5c2113a",
+            "Name": "［VRMV］ U ［FAN MADE］",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "『竜とそばかすの姫』の主題歌「U」で制作したファンメイドのパーティクルライブワールドです！｜ U - millennium parade ｜ VRMV - Reimhak ｜［WARNING］ ˸ PHOTOSENSITIVITY EPILEPSY SEIZURES․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_e3b8f794-286f-4c00-8a01-b51a2e87ff9e",
+            "Name": "【VRMV】廃墟の国のアリス【ParticleLive】",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "作詞作曲編曲：まふまふ 唄：初音ミクAppend EastとNekoyuunとの合作作品になります。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1",
+            "Name": "Animation Live ＂Escape＂",
+            "RecommendedCapacity": 30,
+            "Capacity": 60,
+            "Description": "Models and Animation are Created by S_ASAGIRI․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_6dfddc01-f096-4821-89fd-fd483dc77d28",
+            "Name": "Ayana's Touhou Danmaku Show Showcase 2 ~ Lake of Blood v1․09 （Now on Questǃ）",
+            "RecommendedCapacity": 80,
+            "Capacity": 80,
+            "Description": "In this world you can view all the new touhou styled danmaku shows i've made （please note‚ only the master can toggle the danmaku shows‚ also‚ late joiners will not be able to see the currently playing danmaku show）",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_c66bb628-900d-47d3-92ec-4cfa6b06fea4",
+            "Name": "Ayana's Touhou Danmaku Show Showcase World v1․07（Yuki Show Addedǃ）",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "In this world you can view all the touhou styled danmaku shows i've made （please note‚ only the master can use the UI）",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
+            "Name": "Beyond a bit - 想像のちょっと先へ",
+            "RecommendedCapacity": 64,
+            "Capacity": 64,
+            "Description": "＂From a seed's dream‚ tailes unravel․ Stars and lives blossom beyond our reach․＂ Created by team˸beyond_a_bit․ Member˸ EstyOctober‚ AYANO_TFT‚ sabakichi‚ わか⁄Waka123‚ wata23‚ yuki hata",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_41e14b4f-9f31-4663-9651-3e91eb6eee9a",
+            "Name": "Ｄｅａｒ",
+            "RecommendedCapacity": 11,
+            "Capacity": 20,
+            "Description": "好きな人に告白をするために用意したサプライズライブを、身内向けに手を加えて公開したワールドです。演出終了後教室の外に2作目「ＬＥＴＴＥＲ」と3作目「100 Days Anniversary」のポータルが出現します。 since․2023⁄11⁄20",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_c7c96481-b753-4328-a3d6-c70b05d72532",
+            "Name": "MANA's Particle Live ナンセンス文学",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "Particle Live ナンセンス文学 まな｛MANA｝が製作したパーティクルライブです、",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_bf43d246-68b3-4e6b-900c-2edc08e60278",
+            "Name": "Pandora - TrolleyAdventure",
+            "RecommendedCapacity": 8,
+            "Capacity": 8,
+            "Description": "Pandora - TrolleyAdventure",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_5ba0a512-7734-4d71-837d-d9b4b59b0018",
+            "Name": "Particle Live˸ ヒトリゴト",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "約束の10作目ワールド化したǃ 約束のデビュー2周年の記念ライブので！可愛い世界観、感謝の気持ちと大切な思いてが溢れています！",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_6579ebee-0e8b-49fa-b9e7-20021c887f5e",
+            "Name": "Particle Live˸ 可愛くなりたい 1․4",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "約束の7作目（可愛くなりたい）ワールド化しましたǃ 隠し要素もあり！ダンスモーションとカメラのアリスカード追加した！",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_51b385c6-aca9-4ad1-a887-dfd7b08d57b1",
+            "Name": "The Abandoned City",
+            "RecommendedCapacity": 35,
+            "Capacity": 70,
+            "Description": "［v1․6］ ｛Update Not Available For Questǃ｝ A city lost in its own light․․․ Abandoned by its creators․․․｛8｝｛End of Support｝",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_79032971-f3eb-473b-a3c1-3e74e3e255f3",
+            "Name": "【VRMV】 命ばっかり",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "VRMV 命ばっかり",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_2cd55537-ba90-4f82-b28f-52b88f4c0536",
+            "Name": "マオ -Particle Live-",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "かいりきベアさんとまふまふさん共作の「マオ」のVRMVです。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_2379cbd4-6fbc-4b69-b011-8c2d8196c496",
+            "Name": "携帯恋話 -Particle Live-",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "まふまふさんの「携帯恋話」のParticleLiveです。",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_e5f4267f-9905-45c0-9c0d-b683e3e5e7a3",
+            "Name": "誇り高きアイドル -Particle Live-",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "誇り高きアイドル -Particle Live-",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        }
+    ]
+}
