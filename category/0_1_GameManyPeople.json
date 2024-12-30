@@ -1,0 +1,203 @@
+{
+    "Category": "ゲーム 多人数",
+    "Worlds": [
+        {
+            "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
+            "Name": "［Udon］ TacticalShooter Infinitas",
+            "RecommendedCapacity": 8,
+            "Capacity": 16,
+            "Description": "テクニックと頭脳を駆使し、勝利を掴め！SFスタイルのPvPシューティングゲームです（2-16人向け）․With your technique and tactics‚ fight and win the gameǃ A sci-fi style PvP shooter game （2-16 Players）․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+            "Name": "BABELǃ",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "Shooting and Building PVP Gameǃ For 2-20 Players․ Support VR ⁄ Desktop ⁄ Quest․ 建築系対戦シューティングゲームです。2～20人で遊べます。VR ⁄ デスクトップ ⁄ Quest対応！",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+            "Name": "Blackoutǃ",
+            "RecommendedCapacity": 16,
+            "Capacity": 24,
+            "Description": "Murderers are on the looseǃ When the lights go out‚ they'll make their moveǃ Work together to put a stop to their killing spreeǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+            "Name": "BOMBERio",
+            "RecommendedCapacity": 10,
+            "Capacity": 20,
+            "Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
+            "Name": "CODENAMES 2023［JP］",
+            "RecommendedCapacity": 12,
+            "Capacity": 24,
+            "Description": "日本語版コードネームで遊べるワールドです。Ver1․1․0 新しいワードリスト「VRChat」を追加",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3",
+            "Name": "Colorful Dash -カラフルダッシュ",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "色を集めるアクションゲーム。 全5ステージ＋おまけ。 Use dash to clear the stage․There are 5 stages and Extra stage․ Made with Udon․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_bfe99640-0b12-44bd-8b25-458b4b0bf9aa",
+            "Name": "Fall Guys",
+            "RecommendedCapacity": 10,
+            "Capacity": 20,
+            "Description": "Fall Guys․ This map contains three levels in total․ Race‚ Tip-Toe‚ and Hex-a-gone․ So‚ will you fall?",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_178fa68a-067b-4176-9cdf-84b71065eb3e",
+            "Name": "FALL WAYS",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "FALL WAYS",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+            "Name": "Jetski Rush",
+            "RecommendedCapacity": 12,
+            "Capacity": 16,
+            "Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_93b3d0d4-dab6-4d56-b8b8-e1f6ef67a453",
+            "Name": "KEIDORO",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "悪魔VS人間の「けいどろ」ǃ 最大16名。 VR⁄ディスクトップ、Quest対応。 Devil vs human game like ＂cops and robbers＂․ Max 16 players․ VR⁄Desktop‚ Quest compatible․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_21bb75ba-60b6-4640-b4ca-0473f093c4db",
+            "Name": "New Udon Bomb",
+            "RecommendedCapacity": 10,
+            "Capacity": 20,
+            "Description": "",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+            "Name": "Price Guess",
+            "RecommendedCapacity": 12,
+            "Capacity": 24,
+            "Description": "Guess the price of that stuffǃ Game for any number of playersǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+            "Name": "Prison Escape",
+            "RecommendedCapacity": 18,
+            "Capacity": 32,
+            "Description": "Join the fight between Prisoners and Guards in this VR prisonǃ Plot your escape with friends or keep the prisoners in lineǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+            "Name": "Super VR Ball",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "Race your friendsǃ Get the most melons․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_137d1eb3-0f0f-49b5-9c56-4a3848e32838",
+            "Name": "Tile Gun - Riichi Mahjong ＋ Sanma",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "Riichi on kotatsus․ Includes a fully English UI‚ numbered tiles‚ assists for novice players‚ 3-player and 2-player modes‚ improved desktop controls‚ spectator view‚ and headset-friendly performance˸ no freezing when you drawǃ",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_3c3ccab6-8a26-44ef-979f-af8037ebd7a2",
+            "Name": "VERTEX˸ VRCBattleRoyale",
+            "RecommendedCapacity": 36,
+            "Capacity": 72,
+            "Description": "3人1チーム、最大18人で戦うVRバトロワFPSゲーム！ ⁄ VR Battle Royale FPS Gameǃ Teams of 3 players battle in up to 6 teams of 18 players․ --- 2024-04-29 v1․2․0 ＃VERTEXVRC",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
+            "Name": "VRWare",
+            "RecommendedCapacity": 30,
+            "Capacity": 80,
+            "Description": "Challenge your friends to a series of fast-paced minigamesǃ次々と出されるミニゲームでフレンドと挑戦！ Added new fonts for user-created translations˸ Russian （Русский）‚ and Toki Pona （ ̔ȯ̕ᴗ ） support․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_34fe1b38-8871-447c-8a8b-e957b492881a",
+            "Name": "お絵描き人狼 Draw Wolf",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "共通のお題でお絵描きしている中、一人お題を知らないで描いている人狼を当てよう！3人～8人対応人狼ゲーム！",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        }
+    ]
+}
