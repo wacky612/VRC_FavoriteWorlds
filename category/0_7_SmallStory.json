@@ -1,0 +1,104 @@
+{
+    "Category": "小ネタ",
+    "Worlds": [
+        {
+            "ID": "wrld_68c23e80-ff07-416b-82a8-c70e263258b1",
+            "Name": "Cafe Lyco-Reco",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "喫茶リコリコへようこそ！ Welcome to Cafe Lyco-Recoǃ",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_b9f80349-74af-4840-8ce9-a1b783436590",
+            "Name": "Floating-point Precision Breakdown",
+            "RecommendedCapacity": 12,
+            "Capacity": 24,
+            "Description": "See what happens to your avatar as you go further and further from the center of the universe․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_12816928-ec8c-4fca-af3c-4d3e0e47b29d",
+            "Name": "OneRoom where fairies hide～小人が潜む部屋～",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "夜通しで薬の調合をしていたようです。・・・イタズラしちゃだめですよ？薬に触ったりしないでくださいね？ OneRoomMaker出展作品です。",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_1b393079-93ba-4370-9c51-fe26cfd090c5",
+            "Name": "PaperVRC Prototype",
+            "RecommendedCapacity": 16,
+            "Capacity": 16,
+            "Description": "man i love paper mario",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_e8011b0b-7b96-4236-8ecf-cd2d2d0a385e",
+            "Name": "Real VRChat ⁄ リアルVRChat",
+            "RecommendedCapacity": 20,
+            "Capacity": 20,
+            "Description": "⁄⁄⁄ 現実はこんなにも不便で不自由だ ․․․ ⁄⁄⁄ VRChatから現実に戻る際のリハビリにお使いください ⁄ 消灯ギミック・布団もあるのでチルワールドとしてもお使い頂けます（諸説あり）",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_613c9594-2140-43ee-8448-b6eb5d08a790",
+            "Name": "TheBigSaltCruise",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "（Boat under construction for ever）sinking animation․․",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_60e4d706-0768-43e9-b180-e636bbe70e33",
+            "Name": "バーチャル山岡家（非公式）",
+            "RecommendedCapacity": 32,
+            "Capacity": 64,
+            "Description": "マナーを守ってください",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_679d9eee-f764-4849-810c-420a55199a4c",
+            "Name": "美少女ゲームツクール2020 HD版 ADV-Maker 2020 HD Edition",
+            "RecommendedCapacity": 20,
+            "Capacity": 40,
+            "Description": "お前が美少女ゲームになるんだよ！！ SDK3でUIがフルリメイクされ、画面もワイドに対応したHD版！または2020 Ace！ （元ネタ˸ 美少女ゲーマー集会 Farewell school）",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_cbc7e100-c554-4898-9f4e-06b4c2594fd1",
+            "Name": "色付く世界 UG_IRO",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "4箇所の光の柱に触れるとワールドに色がついて桜が咲きます。questの人も入れるようにしました。色変わるギミックと床の鏡像に関してはPC専用です。木を育てるギミックとパーティクルは動きます。",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        }
+    ]
+}
