@@ -2,17 +2,6 @@
     "Category": "ゲーム 多人数",
     "Worlds": [
         {
-            "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
-            "Name": "［Udon］ TacticalShooter Infinitas",
-            "RecommendedCapacity": 8,
-            "Capacity": 16,
-            "Description": "テクニックと頭脳を駆使し、勝利を掴め！SFスタイルのPvPシューティングゲームです（2-16人向け）․With your technique and tactics‚ fight and win the gameǃ A sci-fi style PvP shooter game （2-16 Players）․",
-            "Platform": {
-                "PC": true,
-                "Android": true
-            }
-        },
-        {
             "ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
             "Name": "BABELǃ",
             "RecommendedCapacity": 20,
@@ -24,22 +13,22 @@
             }
         },
         {
-            "ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
-            "Name": "Blackoutǃ",
-            "RecommendedCapacity": 16,
-            "Capacity": 24,
-            "Description": "Murderers are on the looseǃ When the lights go out‚ they'll make their moveǃ Work together to put a stop to their killing spreeǃ",
+            "ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+            "Name": "BOMBERio",
+            "RecommendedCapacity": 10,
+            "Capacity": 20,
+            "Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
             "Platform": {
                 "PC": true,
                 "Android": true
             }
         },
         {
-            "ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
-            "Name": "BOMBERio",
-            "RecommendedCapacity": 10,
-            "Capacity": 20,
-            "Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
+            "ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+            "Name": "Blackoutǃ",
+            "RecommendedCapacity": 16,
+            "Capacity": 24,
+            "Description": "Murderers are on the looseǃ When the lights go out‚ they'll make their moveǃ Work together to put a stop to their killing spreeǃ",
             "Platform": {
                 "PC": true,
                 "Android": true
@@ -68,6 +57,17 @@
             }
         },
         {
+            "ID": "wrld_178fa68a-067b-4176-9cdf-84b71065eb3e",
+            "Name": "FALL WAYS",
+            "RecommendedCapacity": 40,
+            "Capacity": 80,
+            "Description": "FALL WAYS",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
             "ID": "wrld_bfe99640-0b12-44bd-8b25-458b4b0bf9aa",
             "Name": "Fall Guys",
             "RecommendedCapacity": 10,
@@ -79,14 +79,14 @@
             }
         },
         {
-            "ID": "wrld_178fa68a-067b-4176-9cdf-84b71065eb3e",
-            "Name": "FALL WAYS",
-            "RecommendedCapacity": 40,
+            "ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+            "Name": "Floor Smasherǃ （Game）",
+            "RecommendedCapacity": 20,
             "Capacity": 80,
-            "Description": "FALL WAYS",
+            "Description": "Throw the bullet to break the tiles to let other fall and be the last survivorǃ 2023․01․27 Minor bug fix ＆ enhanced join flow․",
             "Platform": {
                 "PC": true,
-                "Android": false
+                "Android": true
             }
         },
         {
@@ -194,6 +194,17 @@
             "RecommendedCapacity": 16,
             "Capacity": 32,
             "Description": "共通のお題でお絵描きしている中、一人お題を知らないで描いている人狼を当てよう！3人～8人対応人狼ゲーム！",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
+            "ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
+            "Name": "［Udon］ TacticalShooter Infinitas",
+            "RecommendedCapacity": 8,
+            "Capacity": 16,
+            "Description": "テクニックと頭脳を駆使し、勝利を掴め！SFスタイルのPvPシューティングゲームです（2-16人向け）․With your technique and tactics‚ fight and win the gameǃ A sci-fi style PvP shooter game （2-16 Players）․",
             "Platform": {
                 "PC": true,
                 "Android": true

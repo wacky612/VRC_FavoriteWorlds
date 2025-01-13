@@ -2,6 +2,17 @@
     "Category": "ホラー",
     "Worlds": [
         {
+            "ID": "wrld_05d72aa9-6fe1-4875-b7c2-c4fbcbc4df7d",
+            "Name": "8番出口VR VRChat World ｜ The Exit 8 VR VRChat World",
+            "RecommendedCapacity": 8,
+            "Capacity": 8,
+            "Description": "こちらのワールドは「８番出口VR」のゲーム性をご体験いただける公式デモワールドです。This is the official demo world where you can experience the gameplay of The Exit 8 VR․＂ ⁄ ∗ゲーム内のポスター、広告はデザインAC様の素材を利用しております。∗Posters and advertisements in the game include materials from Design AC․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
             "ID": "wrld_c9e2eee0-e9a5-43a8-ae2e-9cbc4b9038e4",
             "Name": "Acheron Apartment",
             "RecommendedCapacity": 6,
