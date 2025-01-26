@@ -2,14 +2,14 @@
     "Category": "ゲーム 少人数",
     "Worlds": [
         {
-            "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
-            "Name": "［Game］ Join Wars ［JP․EN］",
-            "RecommendedCapacity": 12,
-            "Capacity": 24,
-            "Description": "［JP․EN］ 1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。 1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․",
+            "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
+            "Name": "MaterialSniperǃ",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "MaterialSniperǃ shooting game",
             "Platform": {
                 "PC": true,
-                "Android": true
+                "Android": false
             }
         },
         {
@@ -79,22 +79,22 @@
             }
         },
         {
-            "ID": "wrld_1e1ebcf5-e7ff-4b08-a1f9-b6e1c7c77054",
-            "Name": "コモンセンス！ ⁄ Common Sense",
-            "RecommendedCapacity": 8,
-            "Capacity": 12,
-            "Description": "お題をもとに、参加者の回答の中央値を目指すゲームです。アイスブレイクなどにお使いください。（必要人数˸ 3人‚ 推奨人数˸ 5人〜‚ 現在の問題数計240問）",
+            "ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e",
+            "Name": "こんちゃんコヨーテ！~Kon-chan Coyoteǃ~",
+            "RecommendedCapacity": 64,
+            "Capacity": 64,
+            "Description": "プレイ人数：2人～。 プレイ時間：２０分くらい。 ボードゲーム「コヨーテ」が遊べるワールドです！山札をカスタマイズできるコアなファン向けのモードもあります！ みどりの森°アバター「ロポリこん」の非公式ファンワールドです。",
             "Platform": {
                 "PC": true,
                 "Android": true
             }
         },
         {
-            "ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e",
-            "Name": "こんちゃんコヨーテ！~Kon-chan Coyoteǃ~",
-            "RecommendedCapacity": 64,
-            "Capacity": 64,
-            "Description": "プレイ人数：2人～。 プレイ時間：２０分くらい。 ボードゲーム「コヨーテ」が遊べるワールドです！山札をカスタマイズできるコアなファン向けのモードもあります！ みどりの森°アバター「ロポリこん」の非公式ファンワールドです。",
+            "ID": "wrld_1e1ebcf5-e7ff-4b08-a1f9-b6e1c7c77054",
+            "Name": "コモンセンス！ ⁄ Common Sense",
+            "RecommendedCapacity": 8,
+            "Capacity": 12,
+            "Description": "お題をもとに、参加者の回答の中央値を目指すゲームです。アイスブレイクなどにお使いください。（必要人数˸ 3人‚ 推奨人数˸ 5人〜‚ 現在の問題数計240問）",
             "Platform": {
                 "PC": true,
                 "Android": true
@@ -120,6 +120,17 @@
             "Platform": {
                 "PC": true,
                 "Android": false
+            }
+        },
+        {
+            "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+            "Name": "［Game］ Join Wars ［JP․EN］",
+            "RecommendedCapacity": 12,
+            "Capacity": 24,
+            "Description": "［JP․EN］ 1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。 1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․",
+            "Platform": {
+                "PC": true,
+                "Android": true
             }
         }
     ]
