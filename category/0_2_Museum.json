@@ -24,6 +24,17 @@
             }
         },
         {
+            "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
+            "Name": "Exhibition˸ 1٪ of Virtuality",
+            "RecommendedCapacity": 30,
+            "Capacity": 60,
+            "Description": "1％ of Virtuality （＂1％の仮想＂） is a virtual private exhibition world with the theme of Virtual Reality․",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
             "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
             "Name": "Gallery 2718702a",
             "RecommendedCapacity": 40,
@@ -161,6 +172,17 @@
             "RecommendedCapacity": 16,
             "Capacity": 32,
             "Description": "お米がオギャるまで長い月日がかかります！ そのオギャるまでの工程を説明させていただきます！ このワールドに来れば貴方も農家になれる！？",
+            "Platform": {
+                "PC": true,
+                "Android": false
+            }
+        },
+        {
+            "ID": "wrld_867a7613-893e-40c1-9b19-4527d74a0ff5",
+            "Name": "中国ミーム博物館 日本語版 Chinese memes museum Japanese ver",
+            "RecommendedCapacity": 70,
+            "Capacity": 70,
+            "Description": "中国コミュニティで大人気のVRChatワールド、日本語翻訳版が登場しました！ Chinese memes museum Japanese ver 中文梗博物馆日语版",
             "Platform": {
                 "PC": true,
                 "Android": false

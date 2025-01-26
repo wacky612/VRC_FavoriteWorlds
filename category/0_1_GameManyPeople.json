@@ -112,6 +112,17 @@
             }
         },
         {
+            "ID": "wrld_1442a6bf-d510-4fc6-9958-fc1530915d94",
+            "Name": "LusterBullet",
+            "RecommendedCapacity": 16,
+            "Capacity": 24,
+            "Description": "ハンデ調整！⁄ǃǃ⁄Ver2․08⁄最大16人対戦⁄高速飛行＆二丁拳銃PvP「ラスターバレット」⁄ Up to 16 players⁄high speed flight ＆ dual pistol PVP",
+            "Platform": {
+                "PC": true,
+                "Android": true
+            }
+        },
+        {
             "ID": "wrld_21bb75ba-60b6-4640-b4ca-0473f093c4db",
             "Name": "New Udon Bomb",
             "RecommendedCapacity": 10,
